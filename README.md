@@ -1,6 +1,6 @@
-# React Crash Course 2021 (Task Tracker App)
+# Rastreador De Tarefas
 
-App ratreador de tarefas(Task Tracker) criado com React JS.
+App Ratreador De Tarefas(Task Tracker) criado com React JS.
 
 ## Uso
 
